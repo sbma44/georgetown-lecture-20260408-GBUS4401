@@ -25,8 +25,8 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 **2. Clone this repo and install dependencies**
 
 ```bash
-git clone https://github.com/your-username/guest-lecture.git
-cd guest-lecture
+git clone https://github.com/sbma44/georgetown-lecture-20260408-GBUS4401.git
+cd georgetown-lecture-20260408-GBUS4401
 uv sync
 ```
 
